@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1583279958 source:c:\users\omar\codeblocks\a1_p3_id1_id2_id3\main.cpp
+	<iostream>
+	<Matrix.h>
+	<MatrixCalculator.h>
+
+1583280176 c:\users\omar\codeblocks\a1_p3_id1_id2_id3\include\matrix.h
+	<iostream>
+
+1582902560 source:c:\users\omar\codeblocks\a1_p3_id1_id2_id3\src\matrix.cpp
+
+1582930840 source:c:\users\omar\codeblocks\a1_p3_id1_id2_id3\src\matrixcalculator.cpp
+	"MatrixCalculator.h"
+	<Matrix.h>
+
+1582927073 c:\users\omar\codeblocks\a1_p3_id1_id2_id3\include\matrixcalculator.h
+	<string>
+	<Matrix.h>
+
